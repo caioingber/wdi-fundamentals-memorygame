@@ -73,6 +73,18 @@ footer {
 	font-weight: 500;
 }
 
+button {
+	text-transform: uppercase;
+	margin-bottom: 20px;
+	padding: 5px;
+	letter-spacing: 1px;
+	font-size: 16px;
+	border-radius: 4px;
+	background-color: #F15B31;
+	color: white;
+	font-family: Raleway;
+}
+
 .copyright {
 	float: left;
 	font-family: Raleway;
